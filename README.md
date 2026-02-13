@@ -1,3 +1,18 @@
-# ListyCity-Lab-6
-Name: Muhammad Huzaifa
-CCID: mhuzaif2
+# CMPUT 301 : Lab 6 Participation Exercise
+
+## Student Details
+
+- **Full Name:** `Muhammad Huzaifa`
+- **CCID:** `mhuzaif2`
+
+## References and Resources
+
+List any resources used here, or simply put `N/A` if not applicable.
+N/A
+
+## Verbal Collaboration
+
+| Student Name | CCID      |
+| ------------ | --------- |
+| `Ammar Ayub`    | `ammaray` |
+| `Umer Petiwala` | `umermoha`  |
